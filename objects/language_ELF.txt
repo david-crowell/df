@@ -517,6 +517,7 @@ language_ELF
 	[T_WORD:MASTER:ithera]
 	[T_WORD:MAW:iwo]
 	[T_WORD:MEAD:tiwuthi]
+	[T_WORD:KEFIR:kumis]
 	[T_WORD:MEADOW:pari]
 	[T_WORD:MEAL_DOM:cithi]
 	[T_WORD:MEAL_GROUND:theth‚fa]

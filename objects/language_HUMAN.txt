@@ -517,6 +517,7 @@ language_HUMAN
 	[T_WORD:MASTER:si¤ur]
 	[T_WORD:MAW:udma]
 	[T_WORD:MEAD:tode]
+	[T_WORD:KEFIR:blaand]
 	[T_WORD:MEADOW:ethba]
 	[T_WORD:MEAL_DOM:lonel]
 	[T_WORD:MEAL_GROUND:pode]

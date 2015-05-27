@@ -517,6 +517,7 @@ language_GOBLIN
 	[T_WORD:MASTER:ƒs]
 	[T_WORD:MAW:ozuz]
 	[T_WORD:MEAD:ger]
+	[T_WORD:KEFIR:dadiah]
 	[T_WORD:MEADOW:stobux]
 	[T_WORD:MEAL_DOM:lule]
 	[T_WORD:MEAL_GROUND:xan‰]

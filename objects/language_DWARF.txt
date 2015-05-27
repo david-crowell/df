@@ -517,6 +517,7 @@ language_DWARF
 	[T_WORD:MASTER:k“n]
 	[T_WORD:MAW:stul]
 	[T_WORD:MEAD:thash]
+	[T_WORD:KEFIR:airag]
 	[T_WORD:MEADOW:kenis]
 	[T_WORD:MEAL_DOM:fathkal]
 	[T_WORD:MEAL_GROUND:inob]
